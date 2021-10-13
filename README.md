@@ -1,2 +1,2 @@
-# gtx_relaps
-Replace laps for Garmin gtx file.
+# tcx_relaps
+Replace laps for Garmin tcx file.
